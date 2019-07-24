@@ -24,6 +24,7 @@ module.exports = (async () => {
         password: "lawson",
         connectString: "LAWPROD2"
     })
+    console.log("Rachel")
     //check folder to see if files exist
     var sourceFolder = fs.readdirSync("X:\\inserver6\\temp\\NHRMC\\Files for ImageNow\\Import\\Physician Fees2")
     for(file of sourceFolder){
