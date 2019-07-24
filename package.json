@@ -1,5 +1,5 @@
 {
-  "name": "bestcsv",
+  "name": "@wi-dev/csv-2-im",
   "version": "1.0.0",
   "description": "the new CSVSOLUTION ",
   "main": "index.js",
