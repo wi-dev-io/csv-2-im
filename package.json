@@ -9,7 +9,7 @@
   "dependencies": {
     "@wi-dev/oracle": "0.0.1",
     "@wi-dev/csv2json": "1.0.0",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "node-fetch": "2.6.0",
     "npm": "^6.10.1",
     "xml2js": "0.4.19"
